@@ -1,5 +1,5 @@
-//ZhafirahNurShadrinaPutri
-//G1A021028
+//AryaBigtraDhieva
+//G1A021088
 //SLL
 #include <iostream>
 #include <iomanip>
